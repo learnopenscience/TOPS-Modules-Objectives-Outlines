@@ -10,7 +10,7 @@ We are seeking your feedback on the draft objectives and outlines for the five (
 
 **Your Feedback is Needed!**
 
-OpenCore module <span style="text-decoration:underline;">objective and outline</span> review period: **Now through 4 August 2022**
+OpenCore module [objective and outline](https://github.com/learnopenscience/TOPS-Modules-Objectives-Outlines/blob/main/README.md) review period: **Now through 4 August 2022**
 
 OpenCore module <span style="text-decoration:underline;">content</span> review period (more information soon):** 5 August - 20 August** 
 
