@@ -1,5 +1,5 @@
 # Transform to Open Science (TOPS) OpenCore Modules Objectives and Outlines
-OpenCore modules objectives and outlines developed during the curriculum sprint.
+OpenCore modules objectives and outlines developed during the curriculum sprint. See [instructions on how to contribute](https://github.com/learnopenscience/TOPS-Modules-Objectives-Outlines/blob/main/INSTRUCTIONS.md).
 
 __Learning Objectives__
 
