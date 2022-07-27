@@ -2,20 +2,20 @@
 OpenCore modules objectives and outlines developed during the curriculum sprint.
 
 1. Ethos of Open Science
-  A. Learning Objectives
-  B. Lesson Outlines
+    1. Learning Objectives
+    2. Lesson Outlines
 2. Open Data
-  A. Learning Objectives
-  B. Lesson Outlines
+    1. Learning Objectives
+    2. Lesson Outlines
 3. Open Software
-  A. Learning Objectives
-  B. Lesson Outlines
+    1. Learning Objectives
+    2. Lesson Outlines
 4. Open Results
-  A. Learning Objectives
-  B. Lesson Outlines
+    1. Learning Objectives
+    2. Lesson Outlines
 5. Open Tools and Resources
-  A. Learning Objectives
-  B. Lesson Outlines
+    1. Learning Objectives
+    2. Lesson Outlines
 
 
 # Ethos of Open Science
