@@ -1,0 +1,1 @@
+For the Transform to Open Science (TOPS) OpenCore Curriculum Development, we are using the American Geophysical Union (AGU) Meetings Code of Conduct found at: [https://www.agu.org/Plan-for-a-Meeting/AGUMeetings/Meetings-Resources/Meetings-code-of-conduct](https://www.agu.org/Plan-for-a-Meeting/AGUMeetings/Meetings-Resources/Meetings-code-of-conduct).
