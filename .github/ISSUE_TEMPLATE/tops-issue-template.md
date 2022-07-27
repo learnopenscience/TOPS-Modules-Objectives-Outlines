@@ -1,7 +1,7 @@
 ---
 name: TOPS Issue Template
 about: Use this template to submit issues to the TOPS Curriculum Development Team
-title: 'Lesson (or File Name) : <Short Issue Description>'
+title: 'Module : Lesson (or File Name) : <Short Issue Description>'
 labels: ''
 assignees: ''
 
@@ -10,7 +10,7 @@ assignees: ''
 ## General Instructions
 - [] I've read the [Code of Conduct](https://www.agu.org/Plan-for-a-Meeting/AGUMeetings/Meetings-Resources/Meetings-code-of-conduct) and agree to follow it 
 - [] The issue is specific and provides clear suggestions on how to resolve it
-- [] File name and line number(s) are included 
+- [] Module, lesson, file name and line number(s) are included 
 
 ## Type of Issue
 Check only one:  
