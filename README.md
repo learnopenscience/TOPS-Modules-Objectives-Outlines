@@ -2,15 +2,25 @@
 OpenCore modules objectives and outlines developed during the curriculum sprint.
 
 1. Ethos of Open Science
+  a. Learning Objectives
+  b. Lesson Outlines
 2. Open Data
+  a. Learning Objectives
+  b. Lesson Outlines
 3. Open Software
-4. Open Tools
-5. Open Results
+  a. Learning Objectives
+  b. Lesson Outlines
+4. Open Results
+  a. Learning Objectives
+  b. Lesson Outlines
+5. Open Tools and Resources
+  a. Learning Objectives
+  b. Lesson Outlines
 
 
 # Ethos of Open Science
 
-## Learning Objectives - Ethos of Open Science
+## Learning Objectives
 
 1. Explain **why responsible Open Science matters** to specific research projects, science writ large, and society;
 2. Explain the **advantages and challenges** of responsible Open Science
@@ -21,152 +31,11 @@ OpenCore modules objectives and outlines developed during the curriculum sprint.
 7. Include **stakeholders** who will benefit from research done with responsible Open Science
 8. Select responsible Open Science **workflows**
 
-## Lesson Outlines - Ethos of Open Science
-
-### Lesson 1. Intro to Open Science: What is it and what does it promote?
-
-#### Introduction
-
-#### Context and Definition
-
-#### Definitions of Open Science and Responsible Open Science
-
-#### Open Science aspects
-
-#### There is no one ethos
-
-#### Performing open science responsibly
-
-#### Summary
-
-#### Further Reading
-
-### Lesson 2. Benefits and Challenges of Responsible Open Science: Why does it matter?
-
-#### Introduction
-
-#### Benefits of Open Science
-
-#### Quality of research
-
-#### Quality of scholarly communications
-
-#### Response to societal challenges
-
-#### Less unnecessary repetition is better for study participants
-
-#### Personal/career benefits
-
-#### Challenges in Open Science
-
-#### Not everything should be open - don’t overshare without consent!
-
-#### Preparing documentation, using standards, and creating metadata takes time and effort
-
-#### Open community members don’t always agree with each other
-
-#### Case scenarios in open communities
-
-#### Cultural barriers: not everyone wants to change, and institutions often move slowly
-
-### Lesson 3. Stakeholders of Open Science: Who practices Responsible Open Science and for whom?
-
-#### Introduction
-
-#### Who performs and benefits from open science? Stakeholders partaking in open science
-
-#### Researchers
-
-#### Public
-
-#### Policy-makers
-
-#### How each group contributes to Open Science
-
-#### Case scenarios
-
-##### Case Scenario #1:  Trend: Public —> Policy-makers
-
-##### Case Scenario #2: Officialize: Policy-makers —> Researchers/Public
-
-##### Case Scenario #3: Participate: Public —> Researchers
-
-##### Case Scenario #4: Share:  Researchers —> Policy-makers/Public
-
-#### How diverse stakeholders are included in open science
-
-#### Activity/exercise
-
-##### Case Scenario #1: Accessible figures and writing
-
-##### Case Scenario #2: Organizing an inclusive physical event
-
-##### Case Scenario #3: Organizing an inclusive virtual meeting and preparing in advance
-
-#### Summary
-
-### Lesson 4. Impact of Open Science on academia, communities and society as a whole: Where open science happens
-
-#### Introduction
-
-#### Legal frameworks that affect responsible open science
-
-#### Data protection, privacy, and data sovereignty
-
-#### European case: the General Data Protection Regulation
-
-#### South African case: Protection of Personal Information Act (POPI Act) and Open Science
-
-#### United States case: state legislation
-
-#### Summary: Working in a global society with varied data protection laws
-
-#### Whose laws apply to my community?
-
-#### Equity and Open Science
-
-#### A global perspective on open science
-
-#### UNESCO on Open Science Infrastructure
-
-### Lesson 5: Open Science resources & tools: How to get started in responsible Open Science
-
-#### Introduction
-
-##### Not an afterthought - plan for open science into the design
-
-#### Perks of digital and internet age for responsible Open Science
-
-#### Digital persistent identifiers - for objects and researchers
-
-##### ORCID: A permanent unique identifier for you, as a scientific author
-
-#### Sharing data, and software, and getting cited: Repositories you can use
-
-#### Intellectual property, copyright, and licensing your content so it can be reused
-
-#### Making your work useful to others
-
-##### Sharing and publishing your manuscript
-
-###### Public repository/Preprints
-
-###### Publishing Open Science and Open Access
-
-##### Discipline- and sector-specific nuances
-
-###### Working with physical samples and tools
-
-##### Authorship: recognizing the contributions and giving credit
-
-#### Summary: think beforehand, design for open science, never an afterthought
-
-## Bonus section: Open Science Skills
-
+## Lesson Outlines
 
 # Open Data
 
-## Learning Objectives - Open Data
+## Learning Objectives
 
 1. Describe key characteristics of open data
 2. Categorize types of open data
@@ -176,46 +45,46 @@ OpenCore modules objectives and outlines developed during the curriculum sprint.
 6. Describe key features for effective data management planning
 7. Describe best practices for sharing open data
 
-## Lesson Outines - Open Data
+## Lesson Outines
 
-### Lesson 1:  What is Open Data?
+# Open Software
 
-**Lesson lead**: Yuhan "Douglas" Rao
+## Learning Objectives
 
-**Contributors**: Esther Plomp, Jannatul Ferdush, Karega Pauline
+1. Explain the benefits and challenges that producing open software encompasses.
+2. Be able to identify resources for Open Software relevant for a scientific field.
+3. Identify key markers of open software in code
+4. How to cite others’ software in publications
+5. Differentiate open, reproducible, and executable code
+6. Publish software openly so others may access, use, and grow the software
 
-```{contents}
-:local:
-```
+## Lesson Outines
 
-### Introduction
+# Open Results
 
-### 1.1 What is Data?
+## Learning Objectives
 
-#### Primary (raw) data
+1. Identify research stages and elements of research objects that can be considered results
+2. Identify the guiding practices and principles related to open results and the advantages of implementing them across stages of a research process
+3. Apply open result principles to new and ongoing research projects
+4. Identify paths for publicly communicating results
+5. Create open results contributor guidelines and opportunities for open and equitable collaborations
+6. Give credit to contributors in open results
+7. Contribute and provide constructive feedback to others’ results
 
-**Responses to Interviews, questionnaires, and surveys.** 
+## Lesson Outlines
 
-**Data acquired from recorded measurements**, including remote sensing data.
+# Open Tools and Resources
 
-**Data acquired from physical samples and specimens** form the base of many studies. 
+## Learning Objectives
 
-**Data generated from models and simulations.** 
+1. Explain why open science tools encourage responsible open science   (e.g., using the FAIR and CARE principles)  
+2. Identify Open Science communities and initiatives - within and across disciplines - and join a community of practice (CoP) of interest to you  
+3. Provide examples of how open science is practiced in a research team  
+4. Identify types of Open Science tools along with their purpose  
+5. Match appropriate open science tools to specific objectives within the research workflow  
+6. Describe 3-5 open science tools and how to use them in projects (e.g., for communication, sharing of results, giving credit, and collaboration)  
 
-#### Processed data
-
-#### Metadata 
-
-### 1.2 What is Open Data?
-
-#### Availability and accessibility
-
-#### Reusability 
-
-#### Inclusivity
-
-## Conclusion
-
-## Assessment 
+## Lesson Outlines
 
 
