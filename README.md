@@ -1,7 +1,7 @@
 # Transform to Open Science (TOPS) OpenCore Modules Objectives and Outlines
 OpenCore modules objectives and outlines developed during the curriculum sprint.
 
-__Learning Objectives___
+__Learning Objectives__
 
 1. Ethos of Open Science
 2. Open Data
@@ -9,7 +9,7 @@ __Learning Objectives___
 4. Open Results
 5. Open Tools and Resources
 
-__Lesson Outlines___
+__Lesson Outlines__
 
 1. Ethos of Open Science
 2. Open Data
