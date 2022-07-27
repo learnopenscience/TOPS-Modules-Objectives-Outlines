@@ -84,7 +84,7 @@ __Lesson Outlines__
 
 **Lesson 2: WHY: Benefits and Challenges of Responsible Open Science: Why does it matter?**	
 1. Introduction	
-2. Iof Open Science	
+2. Benefits of Open Science	
    1. Quality of research	
    2. Quality and diversity of scholarly communications	
    3. Response to societal challenges	
