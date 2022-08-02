@@ -182,9 +182,9 @@ __Lesson Outlines__
 **Lesson 3: Responsible Open Data**
 1. Introduction
 2. Empowering Individuals and Communities through Open Data
-   1. Lack of protective frameworks
-   2. Lack of proper informed consent
-   3. Lack of equitable participation
+   1. Protective frameworks
+   2. Proper informed consent
+   3. Equitable participation
 3. Managing Data Responsibly
 
 **Lesson 4:  Principles of Data Sharing**
