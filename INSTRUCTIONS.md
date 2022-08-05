@@ -12,7 +12,7 @@ We are seeking your feedback on the draft objectives and outlines for the five (
 
 OpenCore module [objective and outline](https://github.com/learnopenscience/TOPS-Modules-Objectives-Outlines/blob/main/README.md) review period: **Now through 4 August 2022**
 
-OpenCore module <span style="text-decoration:underline;">content</span> review period (more information soon):** 5 August - 20 August** 
+OpenCore module <span style="text-decoration:underline;">content</span> review period (more information soon): **5 August - 20 August** 
 
 There are two ways to provide your feedback.
 
@@ -23,7 +23,7 @@ There are two ways to provide your feedback.
 
 We adhere to the [AGU Code of Conduct:](https://www.agu.org/Plan-for-a-Meeting/AGUMeetings/Meetings-Resources/Meetings-code-of-conduct#:~:text=About%20the%20code%20of%20conduct%20American%20Geophysical%20Union,or%20event%2C%20whether%20in%20public%20or%20private%20facilities.). As you consider your feedback please be respectful. To report a concern, please contact AGU Ethics, ethics@agu.org. 
 
-**We specifically are in need of your feedback on: **
+**We specifically are in need of your feedback on:**
 
 1. **Missing concepts for Open Science beginners**
 2. **Incorrect concepts, or updated leading practices**
@@ -34,7 +34,7 @@ Please be specific about the **module/lesson/item** and provide a recommended co
 
 We are inviting you to engage while the text is still in draft form.  You will see grammar and potentially spelling errors not normally encountered in a peer-review process.  Our copy editing step is later in August, so please focus on the content and not the fine tuning of the text. We truly appreciate your contributions at this stage.
 
-**Thank you and Attribution… **
+**Thank you and Attribution…**
 
 In order to thank you and give accurate attribution for your feedback contribution we ask that you complete our [Google Form](https://docs.google.com/forms/d/e/1FAIpQLScPmtt6ehzIll8zNEk8aDbn0VDH2X6RNI8sET4QD6viVAdgPQ/viewform).  This will help us connect your GitHub username (re: iluvopen2) with your actual name.
 
