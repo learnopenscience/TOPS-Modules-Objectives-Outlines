@@ -176,7 +176,7 @@ __Lesson Outlines__
    3. Collaboration
 4. Open Data to support policy change
 5. Open Data in face of global emergencies
-6. Open Data and public engagement (citizen science)
+6. Open Data and Citizen Science
 7. Open Data and equitable knowledge sharing
 
 **Lesson 3: Responsible Open Data**
